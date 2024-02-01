@@ -24,10 +24,10 @@ This Drug De-Addiction Web App was developed during the "Building the Gateway" h
 ```bash
 cd frontend
 npm start
-
+```
 ### Backend
 ```bash
 cd backend
 node db.js
-
-Feel free to contribute or provide feedback to enhance this Drug De-Addiction Web App. 
+```
+### Feel free to contribute or provide feedback to enhance this Drug De-Addiction Web App. 
